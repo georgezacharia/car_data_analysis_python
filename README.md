@@ -2,6 +2,26 @@
 
 This repository provides an in-depth analysis of a car dataset, highlighting trends in car types, origins, prices, and weights. It aims to offer insights for market analysis and pricing strategies in the automotive industry.
 
+## Dataset Columns
+
+The dataset includes the following columns:
+
+- Make: The manufacturer of the vehicle
+- Model: The specific model name
+- Type: The category of the vehicle (e.g., Sedan, SUV, Sports)
+- Origin: The region where the vehicle was manufactured (Asia, USA, Europe)
+- DriveTrain: The type of drive system (e.g., Front, Rear, All)
+- MSRP: Manufacturer's Suggested Retail Price in USD
+- Invoice: The dealer's cost for the vehicle in USD
+- EngineSize: The size of the engine in liters
+- Cylinders: The number of cylinders in the engine
+- Horsepower: The power output of the engine
+- MPG_City: Miles Per Gallon for city driving
+- MPG_Highway: Miles Per Gallon for highway driving
+- Weight: The weight of the vehicle in pounds
+- Wheelbase: The distance between the front and rear wheels in inches
+- Length: The total length of the vehicle in inches
+
 ## Findings
 
 1. **Car Types:**
@@ -34,13 +54,7 @@ Top 5 most expensive cars are all European:
 4. Mercedes-Benz SL55 AMG 2dr: $121,770
 5. Mercedes-Benz CL500 2dr: $94,820
 
-7. ### Fuel Efficiency
-- Combined city/highway MPG calculated
-- Smaller, lighter vehicles generally show better fuel efficiency
 
-8. ### Price Markup
-- Markup (MSRP to Invoice ratio) typically ranges from 1.09 to 1.12
-- Varies across different makes and models
 
 9. ## Visualizations
 
