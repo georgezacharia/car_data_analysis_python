@@ -54,6 +54,12 @@ Top 5 most expensive cars are all European:
 4. Mercedes-Benz SL55 AMG 2dr: $121,770
 5. Mercedes-Benz CL500 2dr: $94,820
 
+7. ### Average MPG
+The **MPG_Average** was calculated by averaging the **MPG_City** and **MPG_Highway** values. This shows significant differences in fuel efficiency across vehicle types, with sedans generally offering higher MPG than SUVs, making them more appealing for fuel-conscious consumers.
+
+8. ### MSRP to Invoice Ratio
+The **MSRP_Invoice_Ratio** indicates a markup above the invoice price, with all models showing ratios slightly above 1. The **Acura 3.5 RL 4dr** has the highest ratio (1.122), reflecting its premium pricing, while the **Acura RSX Type S 2dr** has the lowest (1.095). This suggests consistent pricing strategies across models, with varying market positions.
+
 
 
 9. ## Visualizations
