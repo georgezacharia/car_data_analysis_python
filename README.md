@@ -16,7 +16,7 @@ This project cruises through a dataset of automobile information, mapping out in
 ---
 
 ## 📂 Data Source
-The dataset was fueled by Kaggle (specific dataset name not provided).
+The dataset was fueled by Kaggle.
 
 ---
 
